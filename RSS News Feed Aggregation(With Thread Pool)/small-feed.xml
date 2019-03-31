@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<rss version="2.0">
+  <channel>
+    <item>
+      <title>Philadelphia Inquirer - National News</title>
+      <link>http://www.philly.com/philly_news_nation.rss</link>
+    </item>
+    <item>
+      <title>Los Angeles Times - National</title>
+      <link>http://www.latimes.com/nation/rss2.0.xml</link>
+    </item>
+    <item>
+      <title>New York Daily News - National</title>
+      <link>http://www.nydailynews.com/cmlink/NYDN.News.National.rss</link>
+    </item>
+  </channel>
+</rss>

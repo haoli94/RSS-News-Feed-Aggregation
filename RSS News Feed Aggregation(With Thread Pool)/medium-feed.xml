@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<rss version="2.0">
+  <channel>
+    <item>
+      <title>Philadelphia Inquirer - National News</title>
+      <link>http://www.philly.com/philly_news_nation.rss</link>
+    </item>
+    <item>
+      <title>Philadelphia Inquirer - Politics</title>
+      <link>http://www.philly.com/philly_politics.rss</link>
+    </item>
+    <item>
+      <title>Philadelphia Inquirer - Business</title>
+      <link>http://www.philly.com/philly_business.rss</link>
+    </item>
+    <item>
+      <title>Philadelphia Inquirer - Personal Finance</title>
+      <link>http://www.philly.com/philly_business_personal_finance.rss</link>
+    </item>
+    <item>
+      <title>Los Angeles Times - National</title>
+      <link>http://www.latimes.com/nation/rss2.0.xml</link>
+    </item>
+    <item>
+      <title>Los Angeles Times - Business</title>
+      <link>http://www.latimes.com/business/rss2.0.xml</link>
+    </item>
+    <item>
+      <title>Los Angeles Times - Entertainment</title>
+      <link>http://www.latimes.com/entertainment/rss2.0.xml</link>
+    </item>
+    <item>
+      <title>Los Angeles Times - Travel</title>
+      <link>http://www.latimes.com/travel/rss2.0.xml</link>
+    </item>
+    <item>
+      <title>Los Angeles Times - Style</title>
+      <link>http://www.latimes.com/style/rss2.0.xml</link>
+    </item>
+    <item>
+      <title>New York Daily News - Tops News</title>
+      <link>http://www.nydailynews.com/cmlink/NYDN.News.rss</link>
+    </item>
+    <item>
+      <title>New York Daily News - National</title>
+      <link>http://www.nydailynews.com/cmlink/NYDN.News.National.rss</link>
+    </item>
+    <item>
+      <title>New York Daily News - World</title>
+      <link>http://www.nydailynews.com/cmlink/NYDN.News.World.rss</link>
+    </item>
+    <item>
+      <title>New York Daily News - Politics</title>
+      <link>http://www.nydailynews.com/cmlink/NYDN.News.Politics.rss</link>
+    </item>
+    <item>
+      <title>New York Daily News - Entertainment</title>
+      <link>http://www.nydailynews.com/cmlink/NYDN.Entertainment.rss</link>
+    </item>
+    <item>
+      <title>New York Daily News - Gossip</title>
+      <link>http://www.nydailynews.com/cmlink/NYDN.Gossip.rss</link>
+    </item>
+  </channel>
+</rss>
